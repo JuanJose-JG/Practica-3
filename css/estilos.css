@@ -1,0 +1,15 @@
+body{
+    padding: 10px;
+    margin: 40 px;
+    font-size: 24px;
+    font-family: helvetica;
+    background-image: url(https://wallpaperstock.net/planeta-wallpapers_54318_1920x1200.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+}
+nav{
+    background-color: rgb(79, 7, 121);
+    padding: 0px;
+    color: whitesmoke;
+}
